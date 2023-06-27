@@ -16,6 +16,7 @@
   "dependencies": {
     "bootstrap": "^5.3.0",
     "moment": "^2.29.4",
+    "qs": "^6.11.2",
     "svelte-spa-router": "^3.3.0"
   }
 }
